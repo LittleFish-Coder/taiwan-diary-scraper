@@ -1,6 +1,6 @@
 # 台灣日記知識庫爬蟲
 
-NCKU Fall 2024 - 史學研究的數位工具
+NCKU 2024 Fall - 史學研究的數位工具
 
 資料來源: 
 - [台灣日記知識庫](https://taco.ith.sinica.edu.tw/tdk/)
